@@ -1,6 +1,6 @@
 pandas
 matplotlib
-sckit-learn
+scikit-learn
 streamlit
 notebook
 jupyterlab
